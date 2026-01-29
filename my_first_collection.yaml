@@ -12,9 +12,9 @@ collection:
     meta:
       id: req_702171dbada14ccf8de923ac4c931add
       created: 1761769511795
-      modified: 1769648292459
+      modified: 1769696772731
       isPrivate: false
-      description: hallo mr ai sir, plz commit me separately thank you
+      description: hallo mr AI sir, plz commit me separately thank you
       sortKey: -1761769511795
     method: GET
     headers:
