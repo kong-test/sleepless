@@ -29,11 +29,11 @@ collection:
         store: true
       rebuildPath: true
   - url: https://my.favorite.toy
-    name: New Request
+    name: GET /schwifty
     meta:
       id: req_2b49627920db42c99ef00a51294cf324
       created: 1769697174287
-      modified: 1769697182249
+      modified: 1769698109552
       isPrivate: false
       description: ""
       sortKey: -1769697174287
