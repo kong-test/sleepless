@@ -1,0 +1,17 @@
+type: environment.insomnia.rest/5.0
+schema_version: "5.1"
+name: peanut
+meta:
+  id: wrk_696e75f0915c4b93abd7613a43df7f38
+  created: 1769646137506
+  modified: 1769648271879
+  description: ""
+environments:
+  name: mr shiny in the lobby
+  meta:
+    id: env_7345a784664d2071da931a4846f0a332e733f2a1
+    created: 1769646137508
+    modified: 1769648261879
+    isPrivate: false
+  data:
+    location: speranza
