@@ -1,19 +1,20 @@
 type: collection.insomnia.rest/5.0
-name: My first collection
+schema_version: "5.1"
+name: Some Endpoints
 meta:
   id: wrk_f95a17fbd2c24e8e80fd39140cdfaefe
   created: 1761769511791
-  modified: 1761769511791
+  modified: 1769646032541
   description: ""
 collection:
-  - url: ""
-    name: My first request
+  - url: https://pog.champ/
+    name: POST /pogchamp
     meta:
       id: req_702171dbada14ccf8de923ac4c931add
       created: 1761769511795
-      modified: 1761769511795
+      modified: 1769648292459
       isPrivate: false
-      description: ""
+      description: hallo mr ai sir, plz commit me separately thank you
       sortKey: -1761769511795
     method: GET
     headers:
