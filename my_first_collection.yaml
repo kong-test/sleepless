@@ -28,6 +28,29 @@ collection:
         send: true
         store: true
       rebuildPath: true
+  - url: https://my.favorite.toy
+    name: New Request
+    meta:
+      id: req_2b49627920db42c99ef00a51294cf324
+      created: 1769697174287
+      modified: 1769697182249
+      isPrivate: false
+      description: ""
+      sortKey: -1769697174287
+    method: GET
+    headers:
+      - name: User-Agent
+        value: insomnia/12.3.0
+        description: ""
+        disabled: false
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
 cookieJar:
   name: Default Jar
   meta:
